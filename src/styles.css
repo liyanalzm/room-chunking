@@ -1,0 +1,25 @@
+.App {
+  font-family: sans-serif;
+}
+
+.room-container {
+  display: flex;
+  flex-flow: wrap;
+  justify-content: flex-start;
+  align-items: flex-start;
+  width: 100%;
+}
+
+.room {
+  display: inline-block;
+  padding: 16px;
+  border: 1px black solid;
+  border-radius: 8px;
+  width: 30%;
+  min-height: 200px;
+  margin: 4px;
+}
+
+input {
+  margin-bottom: 24px;
+}

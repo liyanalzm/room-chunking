@@ -1,0 +1,44 @@
+[
+  {
+    "name": "Celline",
+    "age": "25",
+    "gender": "female",
+    "type": "adult"
+  },
+  {
+    "name": "Krampus",
+    "age": "25",
+    "gender": "male",
+    "type": "adult"
+  },
+  {
+    "name": "Skrtt",
+    "age": "23",
+    "gender": "male",
+    "type": "adult"
+  },
+  {
+    "name": "Cepoah",
+    "age": "21",
+    "gender": "female",
+    "type": "adult"
+  },
+  {
+    "name": "KKrampus",
+    "age": "25",
+    "gender": "male",
+    "type": "adult"
+  },
+  {
+    "name": "Noway",
+    "age": "23",
+    "gender": "male",
+    "type": "adult"
+  },
+  {
+    "name": "Summas",
+    "age": "21",
+    "gender": "female",
+    "type": "adult"
+  }
+]
